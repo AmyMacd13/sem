@@ -2,6 +2,7 @@
 
 name: A workflow for my Hello World App
 on: push
+mvn -f path/to/pom.xml <goals> ...
 
 jobs:
   build:
