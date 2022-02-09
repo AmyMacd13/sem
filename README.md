@@ -1,5 +1,5 @@
 practicing for week one of SEMethods.  
-getting workflow to work 
+getting workflows and badges to work
 
 ![workflow](https://github.com/AmyMacd13/sem/actions/workflows/main4.yml/badge.svg)
 
